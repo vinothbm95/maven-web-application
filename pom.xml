@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>vinoth</id>
 	      <name>wallmart-release</name>
-	      <url>http://13.232.120.152/:9110/vinoth/repository/wallmart-release/</url>
+	      <url>http://13.232.120.152:9110/vinoth/repository/wallmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>vinoth</id>
 	      <name>walmart-snapshot</name>
-	      <url>http://13.232.120.152/:9110/vinoth/repository/walmart-snapshot/</url>
+	      <url>http://13.232.120.152:9110/vinoth/repository/walmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
