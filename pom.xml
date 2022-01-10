@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://13.233.31.67:9000/</sonar.host.url>
+		<sonar.host.url>http://13.234.31.31:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>Testing12</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>vinoth</id>
 	      <name>wallmart-release</name>
-	      <url>http://3.110.33.188:9110/vinoth/repository/wallmart-release/</url>
+	      <url>http://13.232.120.152/:9110/vinoth/repository/wallmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>vinoth</id>
 	      <name>walmart-snapshot</name>
-	      <url>http://3.110.33.188:9110/vinoth/repository/walmart-snapshot/</url>
+	      <url>http://13.232.120.152/:9110/vinoth/repository/walmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
