@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>vinoth</id>
 	      <name>walmart-snapshot</name>
-	      <url>http://13.233.118.110:8888/repository/wallmart-release/</url>
+	      <url>http://13.233.118.110:8888/repository/walllmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
